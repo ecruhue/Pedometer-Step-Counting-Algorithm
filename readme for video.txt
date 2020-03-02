@@ -1,0 +1,3 @@
+Needless to say, in order to increase the step count accuracy, we choose 2.4 seconds sliding window to add more data points, however, this will make the processing very slow and hard to observe the classification.
+If we decrease the sliding window duration to 1.2 seconds, the data points will be decreased and hence decrease the processing duration.
+Hence we separate the classification and step count videos! Thanks a lot!

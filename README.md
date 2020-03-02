@@ -1,7 +1,10 @@
 # Pedometer
 1 Sensor
+
 We attempted to collect data using Gyroscope within the Inertial Measurement Unit (IMU).
+
 2 Location
+
 We assumed that we use the pedometer as a smartphone and we mimic the scenario when a walker holds their smartphone to walk.
 Specifically, human can have various activities with their smartphones (i.e., swinging hands,
 device in the trousers’ pockets, standing and typing). This essence can largely distinguish it
